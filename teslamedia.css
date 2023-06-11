@@ -1,0 +1,51 @@
+@media screen and (max-width: 1200px) {
+    .navbar{
+        visibility: hidden;
+    }
+    .navba{
+        visibility: visible;
+    }
+    #main7{
+        height: max-content;
+    }
+    #main8{
+        height: max-content;
+    }
+    .in8, .in82{
+        width: 100%;
+        
+    }
+    #in82{
+        width: 100%;
+    }
+    #main12{
+        height: max-content;
+        padding: 2%;
+    }
+    .in121, .in122, .in123{
+        margin-top: 20px;
+    }
+
+}
+@media screen and (max-width:900px) {
+    .in6,.in62{
+        width: 90%;
+        flex-wrap: wrap;
+    }
+    #main7{
+        height: max-content;
+    }
+   
+}
+@media screen and (max-width:600px) {
+    .boxin4{
+        width: 95%;
+    }
+    #main7{
+        height: max-content;
+    }
+    .in10{
+        width: 100%;
+    }
+  
+}

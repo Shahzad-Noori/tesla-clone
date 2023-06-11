@@ -1,0 +1,20 @@
+
+
+
+
+
+@media screen and (max-width: 600px) {
+    nav{
+        visibility: hidden;
+    }
+  
+    .one {
+        width: 100%;
+    }
+    #contect3{
+        width: 100%;
+    }
+    #img3{
+        width: 100%;
+    }
+}
